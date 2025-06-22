@@ -8,3 +8,5 @@ redis:5
 mysql:5.7
 hanchuanchuan/goinception
 hhyo/archery:v1.11.3
+vaultwarden/server:latest
+gdy666/lukcy:latest
