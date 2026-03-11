@@ -9,6 +9,6 @@ mysql:5.7
 hanchuanchuan/goinception
 hhyo/archery:v1.11.3
 vaultwarden/server:latest
-gdy666/lukcy:latest
+gdy666/lucky:latest
 qdtoday/qd:latest
 postgres:15-alpine
