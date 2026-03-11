@@ -11,3 +11,4 @@ hhyo/archery:v1.11.3
 vaultwarden/server:latest
 gdy666/lukcy:latest
 qdtoday/qd:latest
+postgres
